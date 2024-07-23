@@ -1,4 +1,4 @@
-<script>
+
 (function() {
     var profileID = 18841;
     var domainID = 13338;
@@ -4785,4 +4785,3 @@
 }
 )();
 
-</script>
